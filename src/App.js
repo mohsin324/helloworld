@@ -5,6 +5,7 @@ const App = ()=> {
     <div className='container'>
       <text>Hello World</text>
       <text>Developed by Mohsin Munir</text>
+      <text>deployed to surge</text>
     </div>
   );  
 }
