@@ -6,6 +6,6 @@ const App = ()=> {
       <text>Hello World</text>
       <text>Developed by Mohsin Munir</text>
     </div>
-  );
+  );  
 }
 export default App;
