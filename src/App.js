@@ -6,6 +6,7 @@ const App = ()=> {
       <text>Hello World</text>
       <text>Developed by Mohsin Munir</text>
       <text>deployed to surge</text>
+      <text>code without pushing to github</text>
     </div>
   );  
 }
